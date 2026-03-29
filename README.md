@@ -26,10 +26,6 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [Blender](https://www.blender.org/download/) – free and open-source 3D computer graphics software for modeling and animation.
 
-  - Alternatives:
-
-    - [Sculptris](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Sculptris.shtml#download) – free and easy to use “virtual clay” modeling software.
-
 - [Brave](https://brave.com/download/) – privacy-focused browser that blocks ads and trackers by default; free.
 
 - [Burp Suite](https://portswigger.net/burp/communitydownload) – web security testing suite, free community edition.
