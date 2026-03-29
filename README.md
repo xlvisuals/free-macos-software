@@ -95,8 +95,10 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 - [FreeCAD](https://www.freecad.org/) – free and open-source 3D parametric modeler for CAD.
 
 	- Other CAD software:
+ 
+ 		- [Macad|3D](https://macad3d.net/) – free and open-source 3D construction programs (CAD) with exports for printing, milling, laser cutting and photo etching. I prefer it over FreeCAD, but it requires [Wine](https://www.winehq.org) or [CrossOver](https://www.codeweavers.com/crossover) to run on macOS.
 
-		- [Chili3d.com](https://chili3d.com/) – Free browser-based CAD software. No account required.
+		- [Chili3d.com](https://chili3d.com/) – Free browser-based CAD software. Quite amazing, no account required.
 
 		- [Fusion360](https://www.autodesk.com/products/fusion-360/personal) – Commercial CAD software. Free with account for non-commercial use.
 
@@ -109,8 +111,6 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 		- [TinkerCAD](https://www.tinkercad.com/) – simple online visual modeller. Free with account for non-commercial use.
 
 - [Freemind](https://sourceforge.net/projects/freemind/) or [Freeplane](https://www.freeplane.org/) – free and open-source mind mapping software.
-
-- [Fusion360](https://www.autodesk.com/products/fusion-360/personal) – commercial CAD software; free with account for non-commercial use.
 
 - [GIMP](https://www.gimp.org/) – free and open-source image editor similar to Photoshop.
 
