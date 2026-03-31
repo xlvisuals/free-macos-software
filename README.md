@@ -14,7 +14,7 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [AmorphousDiskMark](https://www.katsurashareware.com/amorphousdiskmark/) – simple tool to measure local drive read/write speeds.
 
-- [Apple Mail](https://support.apple.com/mail) – native, integrated email client for macOS.
+- [AppCleaner](https://freemacsoft.net/appcleaner/) – free tool to thoroughly uninstall unwanted Apps.
 
 - [Audacity](https://www.audacityteam.org/download/) or [Oceanaudio](https://www.ocenaudio.com/en/) – free audio editors for recording, editing, and mixing.
 
@@ -194,6 +194,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [MakeMKV](https://www.makemkv.com/) – free tool to rip DVD and Blu-ray discs to MKV files.
 
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) – free and open-source Markdown editor that supports tables and [WYSIWYG (preview)](https://github.com/MarkEdit-app/MarkEdit-preview).
+
 - [Meld](https://meldmerge.org/) – free visual diff and merge tool for comparing files.
 
 - [Meshlab](https://www.meshlab.net/) – free and open-source system for processing 3D meshes.
@@ -336,7 +338,7 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 | **Codec Pack** | [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) | (Built into [IINA](https://iina.io/)/[VLC](https://www.videolan.org/vlc/)) | (Native via [FFmpeg](https://ffmpeg.org/)) | (Native via [FFmpeg](https://ffmpeg.org/)) |
 | **Comic Reader** | [YACReader](https://www.yacreader.com/) | [YACReader](https://www.yacreader.com/) | [Peruse](https://peruse.kde.org/) / [YACReader](https://www.yacreader.com/) | [Evince](https://wiki.gnome.org/Apps/Evince) / [YACReader](https://www.yacreader.com/) |
 | **DAW / Music Prod** | [LMMS](https://lmms.io/) | [LMMS](https://lmms.io/) | [LMMS](https://lmms.io/) | [LMMS](https://lmms.io/) |
-| **De-bloat Tools** | [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [ShutUp10](https://www.oo-software.com/en/shutup10) | — | — | — |
+| **De-bloat Tools** | [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [ShutUp10](https://www.oo-software.com/en/shutup10) | [AppCleaner](https://freemacsoft.net/appcleaner/) | — | — |
 | **Delphi/Pascal IDE** | [Lazarus](https://www.lazarus-ide.org/) | [Lazarus](https://www.lazarus-ide.org/) | [Lazarus](https://www.lazarus-ide.org/) | [Lazarus](https://www.lazarus-ide.org/) |
 | **Dependency Walker** | [Dependencies](https://github.com/lucasg/Dependencies) / [Dep. Walker](https://www.dependencywalker.com/) | [otool](https://www.manpagez.com/man/1/otool/) / [nm](https://linux.die.net/man/1/nm) (CLI) | [ldd](https://man7.org/linux/man-pages/man1/ldd.1.html) / [Elf-Dissect](https://www.google.com/search?q=https://github.com/KDE/elf-dissect) | [ldd](https://man7.org/linux/man-pages/man1/ldd.1.html) / [Gnome-Logs](https://wiki.gnome.org/Apps/Logs) |
 | **Dev Environment** | [MSYS2 (Mingw)](https://www.msys2.org/) | [Homebrew](https://brew.sh/) | (Native Build-Essential) | (Native Build-Essential) |
