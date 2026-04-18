@@ -228,6 +228,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [Shottr](https://shottr.cc/) – tiny, fast, and feature-rich screenshot tool for macOS.
 
+- [Sniffnet](https://sniffnet.net/) or [Wireshark](https://www.wireshark.org/) - free and open-source network traffic monitor.
+
 - [Spotlight](https://support.apple.com/guide/mac-help/spotlight-mchlp1008/mac) – integrated system search for files, apps, and web info.
 
 - [StarUML](https://staruml.io/) – sophisticated software modeler; free with account or evaluation.
@@ -255,8 +257,6 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 - [VLC](https://www.videolan.org/vlc/) – free and open-source cross-platform media player.
 
 - [Waterfox](https://www.waterfox.com/) – privacy-focused browser built for power users who value customization; free.
-
-- [Wireshark](https://www.wireshark.org/) – free and open-source network protocol analyzer.
 
 - [XQuartz](https://www.xquartz.org/) – free open-source effort to develop a version of the X.Org X Window System for macOS.
 
@@ -381,7 +381,7 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 | **MS Store / App Installer** | [Alt App Installer](https://github.com/mjishnu/alt-app-installer) | [Homebrew](https://brew.sh/) | [Discover](https://apps.kde.org/discover/) | [Gnome Software](https://wiki.gnome.org/Apps/Software) |
 | **Music Player** | [Clementine](https://www.clementine-player.org/) / [foobar2000](https://www.foobar2000.org/) | [Clementine](https://www.clementine-player.org/) / [MusicBee](https://getmusicbee.com/) | [Clementine](https://www.clementine-player.org/) / [Elisa](https://apps.kde.org/elisa/) | [Lollypop](https://wiki.gnome.org/Apps/Lollypop) / [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) |
 | **Navigation** | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) |
-| **Network Monitor** | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) |
+| **Network Monitor** | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) |
 | **Network Scanner** | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) |
 | **Network Test** | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) |
 | **Office Suite** | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) |
