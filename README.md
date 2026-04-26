@@ -194,7 +194,7 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [MakeMKV](https://www.makemkv.com/) – free tool to rip DVD and Blu-ray discs to MKV files.
 
-- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) – free and open-source Markdown editor that supports tables and [WYSIWYG (preview)](https://github.com/MarkEdit-app/MarkEdit-preview).
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), [Ferrite](https://getferrite.dev/) – free and open-source Markdown editors that support tables and Preview. [MarkEdit preview plugin](https://github.com/MarkEdit-app/MarkEdit-preview).
 
 - [Meld](https://meldmerge.org/) – free visual diff and merge tool for comparing files.
 
