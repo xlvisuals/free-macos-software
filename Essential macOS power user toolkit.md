@@ -34,6 +34,7 @@ A curated directory of lightweight, open-source, and utility-driven applications
 - **NearDrop:** A simple, partial implementation of Google's Quick Share (formerly Nearby Share) protocol tailored for macOS. It allows your Mac to seamlessly receive files over Wi-Fi from nearby Android devices. [https://github.com/grishka/NearDrop](https://github.com/grishka/NearDrop)
 - **Nextpad++:** A lightweight, tabbed text editor tailored specifically for macOS, inspired by popular ecosystem text utilities like Notepad++. It features quick formatting tools and fast, distraction-free text manipulation. [https://github.com/vscodedev/Nextpad](https://github.com/vscodedev/Nextpad)
 - **Nimble:** A sleek, hyper-minimalist text editor designed for quick code note-taking and rapid script editing without the weight or battery consumption of heavy Electron-based IDEs. [https://github.com/vscodedev/nimble](https://github.com/vscodedev/nimble)
+- **Zed:** A lightning-fast, open-source code editor written in Rust. It utilizes GPU acceleration to deliver near-zero layout and typing latency, combining a highly minimalist workspace and project browser with native visual debugging and Language Server Protocol (LSP) code intelligence. [https://zed.dev/](https://zed.dev/)
 
 ### Graphics, Video & Audio
 
