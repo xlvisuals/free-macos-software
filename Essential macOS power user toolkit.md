@@ -1,4 +1,4 @@
-# Essentials macOS App List
+# Essential macOS power user tooolkit
 
 A curated directory of lightweight, open-source, and utility-driven applications for maximizing macOS efficiency, security, and productivity.
 
@@ -43,3 +43,17 @@ A curated directory of lightweight, open-source, and utility-driven applications
 - **Pika:** An open-source, native color picker built for macOS. It sits quietly in your menu bar, making it easy to sample colors on-screen, inspect contrast ratios (WCAG compliant), and copy clean code values. [https://superhighfives.com/pika](https://superhighfives.com/pika)
 - **Pinta:** An open-source, cross-platform drawing and image editing program modeled closely after Paint.NET. It provides a simple layout packed with robust layers, undo histories, and photo adjusters. [https://pinta-project.com/](https://pinta-project.com/)
 - **VLC Media Player:** The classic, universally trusted open-source multimedia player. It features an incredibly versatile codec pack that plays almost all available audio, video, DVD, and streaming protocols out of the box. [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
+
+### Virtualization & Containers
+
+- **Colima:** A minimalist, open-source command-line container runtime for macOS. Built on top of Lima, it serves as a hyper-lightweight, daemonless replacement for Docker Desktop, allowing you to run Docker and Kubernetes environments cleanly without massive background CPU bloat. [https://github.com/abiosoft/colima](https://github.com/abiosoft/colima)
+- **UTM:** A secure, open-source virtualization frontend built on top of QEMU. Heavily optimized for macOS frameworks, it runs ARM64 Linux and native macOS guest systems at near 100% hardware speed on Apple Silicon, and can selectively emulate legacy x86 architectures. [https://getutm.app/](https://getutm.app/)
+- **VMware Fusion Pro:** A highly polished, enterprise-grade desktop hypervisor that is now completely free for personal and commercial use. It offers industry-leading 3D graphics acceleration and a seamless automated setup process for running Windows 11 on ARM. [https://www.vmware.com/products/desktop-hypervisor/fusion-and-workstation](https://www.vmware.com/products/desktop-hypervisor/fusion-and-workstation)
+
+### Package Managers
+
+- **Homebrew:** The missing package manager for macOS. It automates the installation, updating, and management of command-line tools, dependencies, and graphical applications (via Homebrew Cask) seamlessly from the terminal. [https://brew.sh/](https://brew.sh/)
+- **MacPorts:** A robust, reliable alternative package manager for macOS that compiles software directly from source. It manages software packages (ports) independently from the base operating system to prevent dependency conflicts and preserve legacy environments. [https://www.macports.org/](https://www.macports.org/)
+- **Nix:** A powerful, purely functional package manager that ensures reproducible and isolated package deployments. It allows multiple versions of the same software to coexist without interference, making it highly favored by developers. [https://nixos.org/](https://nixos.org/)
+- **mise:** A blazingly fast, Rust-based polyglot dev tool manager, environment variable handler, and task runner. It allows you to pin and isolate legacy or project-specific versions of languages (Node, Python, Go, Terraform) via a local configuration file without contaminating your global system. [https://mise.jdx.dev/](https://mise.jdx.dev/)
+
