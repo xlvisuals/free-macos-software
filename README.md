@@ -212,6 +212,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [OBS Studio](https://obsproject.com/) – free and open-source screen casting and live streaming.
 
+- [Onyx](https://titanium-software.fr/en/onyx.html) - free graphical interface for to perform deep-level maintenance with a few clicks.
+  
 - [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) – free and open-source chart plotter and navigation tool.
 
 - [OWASP ZAP](https://www.zaproxy.org/) – free and open-source website security scanner.
