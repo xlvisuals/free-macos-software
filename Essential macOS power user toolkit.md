@@ -7,8 +7,10 @@ A curated directory of lightweight, open-source, and utility-driven applications
 - **AppCleaner:** A small, highly effective utility that lets you thoroughly uninstall unwanted apps. When you drop an application onto its window, it automatically tracks down and safely deletes hidden caches, application support logs, and preferences files that normal trashing leaves behind. [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/)
 - **battery:** A lightweight open-source CLI and GUI tool designed to preserve your MacBook's long-term battery health. It allows you to set a custom charging threshold (e.g., capping charge at 80%) natively via Apple Silicon/Intel charging controllers. [https://github.com/actuallymentor/battery](https://github.com/actuallymentor/battery)
 - **Maccy:** A minimalistic, keyboard-first clipboard manager for macOS. It stays entirely out of your way, storing your copy history and allowing you to search and paste previous snippets instantly using standard keyboard shortcuts. [https://maccy.app/](https://maccy.app/)
+- **Onyx:** A graphical interface (GUI) for complex command-line scripts and hidden system tasks that are natively built into macOS. Instead of making you open the Terminal and type obscure commands, OnyX lets you perform deep-level maintenance with a few clicks. [https://titanium-software.fr/en/onyx.html](https://titanium-software.fr/en/onyx.html)
 - **Pearcleaner:** An elegant, open-source application uninstaller inspired by AppCleaner. Built natively in Swift, it cleans up lingering files, orphaning configurations, and application remnants with a clean, modern UI. [https://github.com/alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
 - **Rectangle:** An open-source window management app that allows you to snap and resize windows using keyboard shortcuts or mouse gestures. It serves as a highly customizable, lightweight successor to Spectacle. [https://rectangleapp.com/](https://rectangleapp.com/)
+
 
 ### File Management & Archiving
 
