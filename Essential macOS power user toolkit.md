@@ -10,6 +10,7 @@ A curated directory of lightweight, open-source, and utility-driven applications
 - **Onyx:** A graphical interface (GUI) for complex command-line scripts and hidden system tasks that are natively built into macOS. Instead of making you open the Terminal and type obscure commands, OnyX lets you perform deep-level maintenance with a few clicks. [https://titanium-software.fr/en/onyx.html](https://titanium-software.fr/en/onyx.html)
 - **Pearcleaner:** An elegant, open-source application uninstaller inspired by AppCleaner. Built natively in Swift, it cleans up lingering files, orphaning configurations, and application remnants with a clean, modern UI. [https://github.com/alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
 - **Rectangle:** An open-source window management app that allows you to snap and resize windows using keyboard shortcuts or mouse gestures. It serves as a highly customizable, lightweight successor to Spectacle. [https://rectangleapp.com/](https://rectangleapp.com/)
+- **WhatCable:** A handy tool for diagnosing USB and Thunderbolt cables. The free version lists the speeds, classification, and connected devices of all attached USB cables for Intel and Silicon macs. [https://www.whatcable.uk/](https://www.whatcable.uk/)
 
 
 ### File Management & Archiving
