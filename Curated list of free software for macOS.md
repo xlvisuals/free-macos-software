@@ -213,6 +213,7 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 - [OBS Studio](https://obsproject.com/) – free and open-source screen casting and live streaming.
 
 - [Onyx](https://titanium-software.fr/en/onyx.html) - free graphical interface for to perform deep-level maintenance with a few clicks.
+- [Orkas](https://github.com/Orkas-AI/Orkas) – Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Uses user-selected model providers or compatible local endpoints.
   
 - [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) – free and open-source chart plotter and navigation tool.
 
